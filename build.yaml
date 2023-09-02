@@ -14,4 +14,4 @@
 ---
 include:
   - board: s40nc
-  shield: contra nice_view_adapter nice_view
+  shield: s40nc nice_view_adapter nice_view
